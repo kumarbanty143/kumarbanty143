@@ -1,9 +1,5 @@
 # 👋 Hi, I'm **Himanshu Kumar Patra**!  
 
-<div align="center">
-  <img src="https://i.imgur.com/NEttyyx.png" alt="Welcome To My Profile" />
-</div>
-
 ---
 
 ## 👨‍💻 **About Me**  
