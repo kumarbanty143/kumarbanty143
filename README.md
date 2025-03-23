@@ -60,7 +60,3 @@
 
 ## ✨ **Fun Fact**  
 💡 I believe **coding is like art**—it’s not just about logic, but also about creativity! Let’s collaborate and create something amazing. 🚀  
-
-<div align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS3QnfMTpRX9iK7TKn0ciIHrULmbcRNwJWJpNyXxaOVn46NNGeWm-oRAjzIQeJtqCd4cUo9r8Aky_CHtAgAHbFXfs7jjQvodLJtu-t4a_txMOQkXf6GnOnoLJR6QCDZcJNLptif9kR5R7L/s600/_3dtext2gif_rgsokiketqus.gif" alt="Thank You GIF" />
-</div>
